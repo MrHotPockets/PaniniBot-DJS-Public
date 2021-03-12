@@ -1,0 +1,6 @@
+As of v0.1.12
+!ping - Sends Pong! back
+!help - Does !help
+!servers - Lists all servers that the bot is in
+!userinfo - Sends user infomation
+!cc (not recommended) - Clears everything in a channel
